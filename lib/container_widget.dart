@@ -29,5 +29,5 @@ class BelajarContainer extends StatelessWidget {
         child: Text('Hallo')
         ),
     );
-  }
+  } 
 }
